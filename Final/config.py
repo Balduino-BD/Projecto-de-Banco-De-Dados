@@ -3,8 +3,8 @@
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "B@lduin1998",
-    "database": "clinica",
+    "password": ".......",
+    "database": ".......",
     "port": 3306,
 }
 
